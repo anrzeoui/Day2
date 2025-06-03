@@ -1,4 +1,5 @@
-public class MainVehicle {
+
+public class Vehicle1 {
     public static void main(String[] args) {
         Car car = new Car("Suzuki", "Swift", 2015, 15.1);
         car.displayDetails(); 
